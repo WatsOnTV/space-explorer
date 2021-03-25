@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"spaceExplorer"},{"l":"spaceExplorer.FoodItems"},{"l":"spaceExplorer.MedicalItems"},{"l":"spaceExplorer.MemberTypes"}]

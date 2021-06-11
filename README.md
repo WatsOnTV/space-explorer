@@ -1,4 +1,6 @@
-Space Explorer - SENG201-19S1
+#University Project
+
+##Space Explorer - SENG201-19S1
 ================================================================
 Daniel Watson  ----   32227228   ----   djw187
 Karna Malone   ----   66554937   ----   kkm22
